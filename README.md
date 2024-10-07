@@ -223,7 +223,7 @@ Dataset: (https://www.kaggle.com/datasets/emirhanai/social-media-usage-and-emoti
 
 Chart Examples: https://www.kaggle.com/code/megha1703/emotion-prediction-by-social-media-behavior
 
-SVM Example: 
+SVM Example: https://scikit-learn.org/stable/modules/svm.html
 
 ## License
 
